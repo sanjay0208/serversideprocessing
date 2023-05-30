@@ -93,17 +93,10 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </html>
 ~~~
 ## OUTPUT:
-
-
-
-
+![WhatsApp Image 2023-05-30 at 2 04 12 PM](https://github.com/sanjay0208/serversideprocessing/assets/119406959/745c913b-a8b1-491b-90c4-b42b1213ac5c)
 
 ### Home Page:
-
-
-
-
-
+![homepage](https://github.com/sanjay0208/serversideprocessing/assets/119406959/40de6241-1cc0-4390-b8f3-82748bc595c2)
 
 ## Result:
 The program for implementing server side processing is completed successfully.
